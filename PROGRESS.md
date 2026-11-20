@@ -42,8 +42,8 @@ schema, workflow and the per-country checklist live in `V4_PLAN.md` — resume t
    relabelled just **"🗺 Official coverage"** (country name dropped).
 
 ## STATUS: LIVE
-Site published: **https://danielzaiser91.github.io/geoguessr-hints/** (repo
-`danielzaiser91/geoguessr-hints`, Pages = main `/docs`). Webpage + publish DONE.
+Site published: **https://dernamenlosedaniel.github.io/geoguessr-hints/** (repo
+`derNamenloseDaniel/geoguessr-hints`, Pages = main `/docs`). Webpage + publish DONE.
 Remaining: keep adding countries (17/136 done). To update live: edit `data/`, run
 `python scripts/build.py`, `git add -A && git commit && git push`. Pages auto-rebuilds.
 
