@@ -25,7 +25,7 @@ DIST = os.path.join(ROOT, "dist")
 DOCS = os.path.join(ROOT, "docs")
 
 # Live URL of the published site — og:url must match the URL people actually share.
-BASE_URL = "https://danielzaiser91.github.io/geoguessr-hints"
+BASE_URL = "https://dernamenlosedaniel.github.io/geoguessr-hints"
 
 CONTINENT_ORDER = [
     "Africa", "Asia", "Europe", "North America",
